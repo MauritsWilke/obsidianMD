@@ -5,5 +5,8 @@
   "baseFontSize": 16,
   "monospaceFontFamily": "Monoid",
   "interfaceFontFamily": "",
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "snippets"
+  ]
 }

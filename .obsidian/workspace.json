@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔒 Obsidian Vault.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔒 Obsidian Vault.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔒 Obsidian Vault.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔒 Obsidian Vault.md"
+                "file": "readme.md"
               }
             }
           },
@@ -160,10 +160,10 @@
     "direction": "horizontal",
     "width": 371.5
   },
-  "active": "d0e97cfb934206b5",
+  "active": "177ff3a2c07ed021",
   "lastOpenFiles": [
     "Untitled.md",
-    "🔒 Obsidian Vault.md",
+    "readme.md",
     "School/Biology/Dashboard.md",
     "2022-11-02.md"
   ]
