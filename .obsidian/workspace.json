@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "a4a7a328d8b6666a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc13aea8951f5854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "177ff3a2c07ed021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔒 Obsidian Vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05e9694c3d7f48ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d155e7175d2d751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08abc1cb8e3c1a2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a074e2a1f7658bc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09d9b90d54025e1e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba19656268df988c",
+    "type": "split",
+    "children": [
+      {
+        "id": "961715f2330912bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0e97cfb934206b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🔒 Obsidian Vault.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "482c9e81d46e50ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🔒 Obsidian Vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97f13c57a5b6bf29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0243ed00600cb49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🔒 Obsidian Vault.md"
+              }
+            }
+          },
+          {
+            "id": "effff51b13ad21ad",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa7bf7c3124258f1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "acd682c62cd40513",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "active": "d0e97cfb934206b5",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "🔒 Obsidian Vault.md",
+    "School/Biology/Dashboard.md",
+    "2022-11-02.md"
+  ]
+}
