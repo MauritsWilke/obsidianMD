@@ -15,5 +15,7 @@
   "quick-latex",
   "emoji-shortcodes",
   "obsidian-html-tags-autocomplete",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-languagetool-plugin",
+  "execute-code"
 ]
