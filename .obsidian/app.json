@@ -3,5 +3,6 @@
   "spellcheckDictionary": [
     "ObsidianMD",
     "ObsidianMD"
-  ]
+  ],
+  "spellcheck": false
 }
